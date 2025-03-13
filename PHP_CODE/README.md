@@ -68,3 +68,4 @@ Default Credentials for Super Admin
   superadmin@gmail.com
   superadmin
 ```
+
